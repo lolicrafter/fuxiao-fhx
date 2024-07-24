@@ -1,0 +1,544 @@
+{
+  "shipName": [
+    {
+      "harmony": "山风鸟",
+      "originName": "岛风"
+    },
+    {
+      "harmony": "破空者",
+      "originName": "拉菲"
+    },
+    {
+      "harmony": "风舞姬",
+      "originName": "吹雪"
+    },
+    {
+      "harmony": "流萤",
+      "originName": "萤火虫"
+    },
+    {
+      "harmony": "夏雨临",
+      "originName": "夕立"
+    },
+    {
+      "harmony": "夜裔",
+      "originName": "吸血鬼"
+    },
+    {
+      "harmony": "泽斯托尔-1",
+      "originName": "Z-1"
+    },
+    {
+      "harmony": "泽斯托尔-16",
+      "originName": "Z-16"
+    },
+    {
+      "harmony": "美祢",
+      "originName": "峰风"
+    },
+    {
+      "harmony": "墨汐",
+      "originName": "黑潮"
+    },
+    {
+      "harmony": "泽斯托尔-22",
+      "originName": "Z-22"
+    },
+    {
+      "harmony": "禾栎",
+      "originName": "秋月"
+    },
+    {
+      "harmony": "美由纪",
+      "originName": "深雪"
+    },
+    {
+      "harmony": "羽露草",
+      "originName": "初雪"
+    },
+    {
+      "harmony": "诗炉雪",
+      "originName": "白雪"
+    },
+    {
+      "harmony": "探索者",
+      "originName": "布雷恩"
+    },
+    {
+      "harmony": "通讯员",
+      "originName": "麦考尔"
+    },
+    {
+      "harmony": "禾椛",
+      "originName": "凉月"
+    },
+    {
+      "harmony": "知枫",
+      "originName": "晓"
+    },
+    {
+      "harmony": "萝斯",
+      "originName": "基辅"
+    },
+    {
+      "harmony": "春柚",
+      "originName": "绫波"
+    },
+    {
+      "harmony": "枪之先驱",
+      "originName": "标枪"
+    },
+    {
+      "harmony": "幻想曲",
+      "originName": "空想"
+    },
+    {
+      "harmony": "祥瑞御免",
+      "originName": "雪风"
+    },
+    {
+      "harmony": "知栀",
+      "originName": "响"
+    },
+    {
+      "harmony": "果蒲",
+      "originName": "不知火"
+    },
+    {
+      "harmony": "铁臂",
+      "originName": "唐斯"
+    },
+    {
+      "harmony": "果荻",
+      "originName": "阳炎"
+    },
+    {
+      "harmony": "知梓",
+      "originName": "雷"
+    },
+    {
+      "harmony": "知柏",
+      "originName": "电"
+    },
+    {
+      "harmony": "佐栴",
+      "originName": "时雨"
+    },
+    {
+      "harmony": "萨罗蒙",
+      "originName": "拉菲"
+    },
+    {
+      "harmony": "莫妮卡",
+      "originName": "莫加多尔"
+    },
+    {
+      "harmony": "哈曼",
+      "originName": "哈曼"
+    },
+    {
+      "harmony": "火焰女神",
+      "originName": "女灶神"
+    },
+    {
+      "harmony": "海伦",
+      "originName": "海纶娜"
+    },
+    {
+      "harmony": "金之谜团",
+      "originName": "圣地亚哥"
+    },
+    {
+      "harmony": "木田神",
+      "originName": "北上"
+    },
+    {
+      "harmony": "玉瑞",
+      "originName": "应瑞"
+    },
+    {
+      "harmony": "多多",
+      "originName": "大井"
+    },
+    {
+      "harmony": "若川",
+      "originName": "长良"
+    },
+    {
+      "harmony": "山淀",
+      "originName": "大淀"
+    },
+    {
+      "harmony": "仙黛",
+      "originName": "川内"
+    },
+    {
+      "harmony": "云雀",
+      "originName": "那珂"
+    },
+    {
+      "harmony": "雷鸟",
+      "originName": "神通"
+    },
+    {
+      "harmony": "海鹰飞艇",
+      "originName": "基洛夫"
+    },
+    {
+      "harmony": "琥珀",
+      "originName": "柯尼斯堡"
+    },
+    {
+      "harmony": "上游之民",
+      "originName": "奥马哈"
+    },
+    {
+      "harmony": "忠诚伯爵",
+      "originName": "卡尔斯鲁厄"
+    },
+    {
+      "harmony": "莱茵",
+      "originName": "科隆"
+    },
+    {
+      "harmony": "大河流",
+      "originName": "里士满"
+    },
+    {
+      "harmony": "洋平",
+      "originName": "平海"
+    },
+    {
+      "harmony": "洋宁",
+      "originName": "宁海"
+    },
+    {
+      "harmony": "空流",
+      "originName": "天龙"
+    },
+    {
+      "harmony": "奈亚",
+      "originName": "通用突破材料"
+    },
+    {
+      "harmony": "阿列苏莎",
+      "originName": "林仙"
+    },
+    {
+      "harmony": "希露·菲利德",
+      "originName": "谢菲尔德"
+    },
+    {
+      "harmony": "伊希斯",
+      "originName": "贝尔法斯特"
+    },
+    {
+      "harmony": "不死鸟",
+      "originName": "欧根亲王"
+    },
+    {
+      "harmony": "红叶",
+      "originName": "高雄"
+    },
+    {
+      "harmony": "弥犰",
+      "originName": "羽黑"
+    },
+    {
+      "harmony": "雾都",
+      "originName": "伦敦"
+    },
+    {
+      "harmony": "若犹",
+      "originName": "青叶"
+    },
+    {
+      "harmony": "若排",
+      "originName": "衣笠"
+    },
+    {
+      "harmony": "美食",
+      "originName": "新奥尔良"
+    },
+    {
+      "harmony": "弥獌",
+      "originName": "妙高"
+    },
+    {
+      "harmony": "库恩锡",
+      "originName": "昆西"
+    },
+    {
+      "harmony": "魔女塔",
+      "originName": "威奇塔"
+    },
+    {
+      "harmony": "亚田子",
+      "originName": "爱宕"
+    },
+    {
+      "harmony": "管风琴",
+      "originName": "盐湖城"
+    },
+    {
+      "harmony": "珀菈",
+      "originName": "波拉"
+    },
+    {
+      "harmony": "诺弗科",
+      "originName": "诺福克"
+    },
+    {
+      "harmony": "纱芙可",
+      "originName": "萨福克"
+    },
+    {
+      "harmony": "普里斯特",
+      "originName": "约克"
+    },
+    {
+      "harmony": "坎格娜",
+      "originName": "肯特"
+    },
+    {
+      "harmony": "巨人",
+      "originName": "巨人"
+    },
+    {
+      "harmony": "云鸱",
+      "originName": "飞鹰"
+    },
+    {
+      "harmony": "木星",
+      "originName": "兰利"
+    },
+    {
+      "harmony": "鹁鸽",
+      "originName": "博格"
+    },
+    {
+      "harmony": "阿尔戈斯",
+      "originName": "百眼巨人"
+    },
+    {
+      "harmony": "木枭",
+      "originName": "龙骧"
+    },
+    {
+      "harmony": "云鸢",
+      "originName": "隼鹰"
+    },
+    {
+      "harmony": "幽冥",
+      "originName": "黑暗界"
+    },
+    {
+      "harmony": "惊灵",
+      "originName": "恐怖"
+    },
+    {
+      "harmony": "剑卫士",
+      "originName": "威尔逊亲王"
+    },
+    {
+      "harmony": "神罗圣女",
+      "originName": "俾斯麦"
+    },
+    {
+      "harmony": "青雀",
+      "originName": "华盛顿"
+    },
+    {
+      "harmony": "北之女王",
+      "originName": "提尔皮茨"
+    },
+    {
+      "harmony": "洛特尼",
+      "originName": "罗德尼"
+    },
+    {
+      "harmony": "微妮特",
+      "originName": "维托里奥·维内托"
+    },
+    {
+      "harmony": "乌鳌",
+      "originName": "伊势"
+    },
+    {
+      "harmony": "奈雅纪",
+      "originName": "长门"
+    },
+    {
+      "harmony": "乌螯",
+      "originName": "日向"
+    },
+    {
+      "harmony": "无津",
+      "originName": "陆奥"
+    },
+    {
+      "harmony": "巨湾",
+      "originName": "田纳西"
+    },
+    {
+      "harmony": "黄金",
+      "originName": "加利福尼亚"
+    },
+    {
+      "harmony": "银之藏",
+      "originName": "内华达"
+    },
+    {
+      "harmony": "抢先者",
+      "originName": "俄克拉荷马"
+    },
+    {
+      "harmony": "红衣公爵",
+      "originName": "黎塞留"
+    },
+    {
+      "harmony": "尼尔薰",
+      "originName": "纳尔逊"
+    },
+    {
+      "harmony": "花园",
+      "originName": "新泽西"
+    },
+    {
+      "harmony": "印苏",
+      "originName": "南达科他"
+    },
+    {
+      "harmony": "红雀",
+      "originName": "北卡罗来纳"
+    },
+    {
+      "harmony": "沃斯派蒂",
+      "originName": "厌战"
+    },
+    {
+      "harmony": "尤莉娅·西撒",
+      "originName": "朱利奥凯撒"
+    },
+    {
+      "harmony": "卡米萝·本索",
+      "originName": "加富尔伯爵"
+    },
+    {
+      "harmony": "安娜·希斯塔",
+      "originName": "布列塔尼"
+    },
+    {
+      "harmony": "德拉蔻·尤克尔",
+      "originName": "约克公爵"
+    },
+    {
+      "harmony": "芮托莉欧",
+      "originName": "利托里奥"
+    },
+    {
+      "harmony": "伊莉欧·星语",
+      "originName": "卡约杜伊利奥"
+    },
+    {
+      "harmony": "纯白女王",
+      "originName": "胡德"
+    },
+    {
+      "harmony": "空鲤",
+      "originName": "金刚"
+    },
+    {
+      "harmony": "彻尔",
+      "originName": "舍尔海军上将"
+    },
+    {
+      "harmony": "锥鳗",
+      "originName": "雾岛"
+    },
+    {
+      "harmony": "洄鲟",
+      "originName": "比睿"
+    },
+    {
+      "harmony": "杜萦·科尔克",
+      "originName": "敦刻尔克"
+    },
+    {
+      "harmony": "赛茵赫斯",
+      "originName": "沙恩霍斯特"
+    },
+    {
+      "harmony": "黑桧",
+      "originName": "赤城"
+    },
+    {
+      "harmony": "金泽",
+      "originName": "加贺"
+    },
+    {
+      "harmony": "灰夫人",
+      "originName": "列克星敦"
+    },
+    {
+      "harmony": "空之罗宾",
+      "originName": "萨拉托加"
+    },
+    {
+      "harmony": "飞艇伯爵",
+      "originName": "齐柏林伯爵"
+    },
+    {
+      "harmony": "追击方舟",
+      "originName": "皇家方舟"
+    },
+    {
+      "harmony": "约柯敦",
+      "originName": "约克城"
+    },
+    {
+      "harmony": "闪灵",
+      "originName": "企业"
+    },
+    {
+      "harmony": "荷涅特",
+      "originName": "大黄蜂"
+    },
+    {
+      "harmony": "善战",
+      "originName": "埃塞克斯"
+    },
+    {
+      "harmony": "鹤寿",
+      "originName": "贝亚恩"
+    },
+    {
+      "harmony": "白鹬",
+      "originName": "翔鹤"
+    },
+    {
+      "harmony": "仙鹤",
+      "originName": "瑞鹤"
+    },
+    {
+      "harmony": "蓝女士",
+      "originName": "列克星敦"
+    },
+    {
+      "harmony": "耶格尔",
+      "originName": "鹰"
+    },
+    {
+      "harmony": "苍蛟",
+      "originName": "苍龙"
+    },
+    {
+      "harmony": "虹龙",
+      "originName": "飞龙"
+    },
+    {
+      "harmony": "山凤",
+      "originName": "大凤"
+    }
+  ]
+}
